@@ -1,0 +1,8 @@
+HT_OCP4_MASTER_API=https://api.na45.prod.nextcle.com:6443
+RHT_OCP4_WILDCARD_DOMAIN=apps.na45.prod.nextcle.com
+RHT_OCP4_NEXUS_SERVER=nexus-common.apps.na45.prod.nextcle.com
+RHT_OCP4_DEV_USER=flemes-1
+RHT_OCP4_DEV_PASSWORD=d5563d37f3c94acc8f41
+RHT_OCP4_GITHUB_USER=flemes
+RHT_OCP4_QUAY_USER=flemess
+
